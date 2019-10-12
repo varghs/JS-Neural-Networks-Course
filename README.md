@@ -28,6 +28,8 @@ The code is meant to be run in a browser, so you just need an online HTML, JavaS
 - [jDoodle](https://www.jdoodle.com/html-css-javascript-online-editor/).
 - Or your preferred one.
 
+The output will be in the console, not in the html page itself.
+
 
 ## If you do want to install it locally, then:
 
