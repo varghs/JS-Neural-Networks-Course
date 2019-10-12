@@ -64,7 +64,7 @@ npm install brain.js
 
 ### Installation note
 
-`Brain.js` depends on a native module `headless-gl` for gpu support. In most cases installing `brain.js` from npm should just work. However, if you run into problems, this means that prebuilt binaries are not able to download from github reporsitories and you might need to build it yourself. If you would like, you can also install an earlier version of `Brain.js`.
+`Brain.js` depends on a native module `headless-gl` for gpu support. In most cases installing `brain.js` from npm should just work. However, if you run into problems, this means that prebuilt binaries are not able to download from github reporsitories and you might need to build it yourself. If you would like, you can also install an earlier version of `Brain.js` if the installation fails.
 
 #### Building from source
 
