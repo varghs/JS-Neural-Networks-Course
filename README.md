@@ -1,8 +1,12 @@
-# Brain.js Course Source Code
+# Source Code for Brain.js
 
-This is the source code for Robert Plummer's course on Scrimba for brain.js. The code is meant to be run in a browser.
-Some files include bonus question answers and others don't.
+This is the source code for Robert Plummer's course on Scrimba for brain.js. 
 
-index.html and counter.html are the same, but counter uses newer code for brain.js. index.html references version 1.2.6(I think?) of brain.js, while counter.html references version 1.6.0.
+The code is meant to be run in a browser.
+There are question and answers as bonus in some files.
 
-normalization.html is used for the stockPredictor.js file.
+## Things to remember:
+1.  file: index.html and file: counter.html almost the same except for the version of brain.js .
+2.  index.html references version 1.2.6 of brain.js ,
+     counter.html references version 1.6.0.
+3.  normalization.html is used for the file: stockPredictor.js .
