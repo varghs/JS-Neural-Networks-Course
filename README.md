@@ -5,7 +5,7 @@
   </a>
 </p>
 
-This is the source code for [Robert Plummer's](https://github.com/robertleeplummerjr) ['Neural networks in JavaScript' course on Scrimba] for [Brain.js](https://github.com/BrainJS/brain.js).
+This is the source code for [Robert Plummer's](https://github.com/robertleeplummerjr): ['Neural networks in JavaScript' course on Scrimba](https://scrimba.com/g/gneuralnetworks) for [Brain.js](https://github.com/BrainJS/brain.js).
 Some files include bonus question answers and others don't.
 
 'index.html' and 'counter.html' are the same, they just use different versions of [Brain.js](https://github.com/BrainJS/brain.js):
