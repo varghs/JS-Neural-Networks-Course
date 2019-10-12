@@ -115,7 +115,6 @@ Once its deployed go to http://localhost:3000/ or wherever the WebApp is served.
 ## Built with:
 
 [![HTML](https://github.com/nicbuitr/f/blob/master/html5.png)](https://www.w3.org/html/) | [![JavaScript](https://github.com/nicbuitr/f/blob/master/javascript.png)](https://www.w3.org/standards/webdesign/script.html) | [![Brain.js](https://github.com/nicbuitr/f/blob/master/brainjs.png)](https://brain.js.org)
-:---:|:---:|:---:|:---:
 
 
 
