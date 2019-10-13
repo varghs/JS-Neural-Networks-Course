@@ -131,4 +131,6 @@ Thanks to all the people who have improved this repository!
   <img src="https://contributors-img.firebaseapp.com/image?repo=xXH4CKST3RXx/JS-Neural-Networks-Course" />
 </a>
 
+All the source code was created by [Robert Plummer](https://github.com/robertleeplummerjr), this repository is just a way to get access to the code.
+
 Made with [contributors-img](https://contributors-img.firebaseapp.com).
