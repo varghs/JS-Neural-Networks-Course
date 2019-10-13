@@ -55,7 +55,7 @@ The output will be in the console, not in the HTML page itself.
 
 ### NPM
 
-If you can install `brain.js` with [npm](http://npmjs.org):
+If you can, install `brain.js` with [npm](http://npmjs.org):
 
 ```bash
 npm install brain.js
