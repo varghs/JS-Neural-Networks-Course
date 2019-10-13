@@ -122,3 +122,13 @@ Once its deployed go to http://localhost:3000/ or wherever the WebApp is served.
 ## License
 
 [Robert Plummer ©](https://github.com/robertleeplummerjr) | [Per Harald Borgen ©](https://github.com/perborgen)
+
+## Contributors
+
+Thanks to all the people who have improved this repository!
+
+<a href="https://github.com/xXH4CKST3RXx/JS-Neural-Networks-Course/graphs/contributors">
+  <img src="https://contributors-img.firebaseapp.com/image?repo=xXH4CKST3RXx/JS-Neural-Networks-Course" />
+</a>
+
+Made with [contributors-img](https://contributors-img.firebaseapp.com).
