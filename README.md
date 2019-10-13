@@ -5,6 +5,15 @@
   </a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/xXH4CKST3RXx/JS-Neural-Networks-Course/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/xXH4CKST3RXx/JS-Neural-Networks-Course.svg" alt="Build Status">
+    </a>
+    <a href="https://github.com/xXH4CKST3RXx/JS-Neural-Networks-Course/">
+        <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Build Status">
+    </a>
+</p>
+
 This is the source code for [Robert Plummer's](https://github.com/robertleeplummerjr): ['Neural networks in JavaScript' course on Scrimba](https://scrimba.com/g/gneuralnetworks) for [Brain.js](https://github.com/BrainJS/brain.js).
 Some files include bonus question answers and others don't.
 
