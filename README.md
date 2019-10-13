@@ -132,6 +132,8 @@ Once its deployed go to http://localhost:3000/ or wherever the WebApp is served.
 
 [Robert Plummer ©](https://github.com/robertleeplummerjr) | [Per Harald Borgen ©](https://github.com/perborgen)
 
+Licensed under the [MIT License](LICENSE).
+
 ## Contributors
 
 Thanks to all the people who have improved this repository!
